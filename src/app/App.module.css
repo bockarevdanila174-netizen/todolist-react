@@ -1,0 +1,39 @@
+.App{
+
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+
+/*.is-done {*/
+/*    opacity: 0.5;*/
+/*}*/
+
+
+/*.task-input_error{*/
+/*    border: 2px solid red;*/
+/*    outline: none;*/
+/*}*/
+/*.error-message{*/
+/*    color: red;*/
+/*    display: block;*/
+/*}*/
+
+
+/*.task{*/
+/*    font-weight: bold;*/
+/*}*/
+/*.task-done{*/
+/*    text-decoration: line-through;*/
+/*    opacity: 0.5;*/
+/*    color: green;*/
+
+/*}*/
+/*.active-filter{*/
+/*    background-color: #776fea;*/
+/*    border:2px solid #776fea;*/
+/*    color: white;*/
+/*    border-radius: 2px;*/
+
+/*}*/
